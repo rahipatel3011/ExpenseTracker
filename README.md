@@ -3,7 +3,7 @@
 ExpenseTracker_React
 This is a simple web app that allows you to track your income and expenses. You can add, filter transactions, as well as view your balance, income, and expenses. You can also filter transactions by month and year
 
-This project was created using React, and Chart.js.
+This project was created using React. database has not implemented in this project.
 
 
 #### Features ####
